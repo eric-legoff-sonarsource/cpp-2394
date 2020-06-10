@@ -1,0 +1,1 @@
+build-wrapper --out-dir build-wrapper-output ./build.sh
