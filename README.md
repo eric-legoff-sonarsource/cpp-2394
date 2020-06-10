@@ -1,1 +1,1 @@
-build-wrapper --out-dir build-wrapper-output ./build.sh
+build-wrapper --out-dir build-wrapper-output gcc main.c
